@@ -38,7 +38,16 @@
 
 <h4>Contribution to Open Source Projects</h4>
 
-[![eSignet Sign-up](https://github-readme-stats.vercel.app/api/pin/?username=bunsy-0900&repo=esignet-signup&show_owner=true)](https://github.com/bunsy-0900/esignet-signup)
-[![eSignet Sign-up](https://github-readme-stats.vercel.app/api/pin/?username=bunsy-0900&repo=mosip-config&show_owner=true)](https://github.com/bunsy-0900/mosip-config)
-[![eSignet Sign-up](https://github-readme-stats.vercel.app/api/pin/?username=bunsy-0900&repo=artifactory-ref-impl&show_owner=true)](https://github.com/bunsy-0900/artifactory-ref-impl)
+<div align="center">
+  <a href="https://github.com/bunsy-0900/esignet-signup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bunsy-0900&repo=esignet-signup&show_owner=true" alt="esignet-signup repo" />
+  </a>
+  <a href="https://github.com/bunsy-0900/mosip-config">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bunsy-0900&repo=mosip-config&show_owner=true" alt="mosip-config repo" />
+  </a>
+  <a href="https://github.com/bunsy-0900/artifactory-ref-impl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bunsy-0900&repo=artifactory-ref-impl&show_owner=true" alt="artifactory-ref-impl repo" />
+  </a>
+</div>
+
 ###
