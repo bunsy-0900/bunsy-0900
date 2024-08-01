@@ -39,3 +39,7 @@
 <br clear="both">
 
 ###
+
+<img src="https://raw.githubusercontent.com/bunsy-0900/bunsy-0900/output/snake.svg" alt="Snake animation" align="center"/>
+
+###
